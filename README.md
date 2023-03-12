@@ -12,4 +12,5 @@ PORT=Port to run this api
 API_KEY=Your openai api key
 
 3- Navigate to the project folder on cmd or code editor terminal and run npm start
+
 4- Make a api request on the following format: http://localhost:PORT?city=CITYNAME
