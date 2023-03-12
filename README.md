@@ -6,6 +6,7 @@ Project built using openai Api
 Steps:
 
 1 - Clone this repo to a folder
+
 2- add a .env file with the following variables:
 
 PORT=Port to run this api
